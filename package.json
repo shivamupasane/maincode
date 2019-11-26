@@ -1,0 +1,25 @@
+{
+  "name": "grunt_practice",
+  "version": "1.0.0",
+  "description": "this is to demo grunt.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamupasane/grunt_practice_new.git"
+  },
+  "author": "shivam upasane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamupasane/grunt_practice_new/issues"
+  },
+  "homepage": "https://github.com/shivamupasane/grunt_practice_new#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^4.13.0"
+  }
+}
